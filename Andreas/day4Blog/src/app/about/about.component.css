@@ -1,0 +1,51 @@
+.parallax_section {
+  height: 200px;
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-size: cover;
+  background-position: 100% auto;
+  position: relative; }
+
+.parallax_image_first {
+  background-image: url(/assets/img/map.jpg); }
+
+.parallax_image_second {
+  background-image: url(/assets/img/map.jpg); }
+
+.parallax_image_third {
+  background-image: url(/assets/img/map.jpg); }
+
+.row {
+  display: flex;
+  justify-content: center; }
+
+.box {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-between;
+  width: 100%;
+  margin: 20px 0 20px 0;
+  padding: 20px 20px 20px 20px;
+  box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.8); }
+
+.card:hover {
+  transform: scale(1.05); }
+
+.card {
+  display: flex;
+  justify-content: space-between;
+  margin: 20px 20px 20px 20px;
+  padding: 20px 20px 20px 20px;
+  transition: all 0.5s;
+  box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.8);
+  background-color: #e4e4e4; }
+
+.btn {
+  background-color: #17748c; }
+
+.card-img-top im {
+  width: 250px;
+  heigt: 320px;
+  background-color: red; }
+
+/*# sourceMappingURL=about.component.css.map */

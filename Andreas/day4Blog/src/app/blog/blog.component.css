@@ -1,0 +1,14 @@
+.box {
+  display: flex;
+  flex-direction: column;
+  width: 50%;
+  margin: 20px 0 20px 0;
+  padding: 20px 20px 20px 20px;
+  box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.8);
+  background-color: #e4e4e4; }
+
+.box img {
+  max-width: 500px;
+  max-heigt: 640px; }
+
+/*# sourceMappingURL=blog.component.css.map */

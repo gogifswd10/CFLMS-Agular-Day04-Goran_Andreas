@@ -1,0 +1,11 @@
+.bg {
+  background-image: url(/assets/img/banner.jpg);
+  height: 50%;
+  min-height: 95vh;
+  margin: -8px 0 0 0;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  padding: 30% 20% 0 0; }
+
+/*# sourceMappingURL=navbar.component.css.map */
